@@ -17,7 +17,8 @@ Their revenue management team had decided to hire a 3rd party service provider t
 
 # The process includes
 
-Data cleaning and transformation using Power Query
+Data cleaning and transformation using Power Query,
+
 Data modelling
 Calculating various key measures using DAX functions
 Data visualisation
