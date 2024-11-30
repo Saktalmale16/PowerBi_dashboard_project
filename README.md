@@ -91,3 +91,20 @@ Delhi city has the highest occupancy rate and rating followed by the cities Hyde
 The management has lost around 298M due to booking cancellations
 
 Elite type rooms have the most booking and as well higher cancellation rate.
+
+# Insights
+# Overall Metrics:
+
+Total revenue: 1.71bn
+
+RevPAR: 7.35K
+
+Occupancy % : 57.87%
+
+DSRN : 2.53K
+
+Realisation %: 70.15%
+
+Cancellation %: 24%-26%
+
+ADR : 12.70K
