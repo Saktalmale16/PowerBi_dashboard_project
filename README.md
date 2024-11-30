@@ -1,5 +1,6 @@
 # AtliQ Hospitality Analysis - PowerBI
 
+Welcome to the AtliQ Grand Hospitality Dashboard project! This project was created to provide insightful data analysis for AtliQ Grand, a luxury hotel chain facing revenue challenges in India's competitive hospitality market. Using Power BI and a comprehensive dataset, the dashboard provides crucial insights for strategic decision-making.
 
 # Problem Statement
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue. However, they do not have an in-house data analytics team to provide them with these insights.
