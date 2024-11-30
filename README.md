@@ -26,3 +26,12 @@ Calculating various key measures using DAX functions
 Data visualisation
 
 Key Performance Indicators
+
+# Tools Used
+Excel: Data loading and preparation.
+
+Power Query: Data cleaning and transformation.
+
+DAX (Data Analysis Expressions): Data modeling and calculations.
+
+Power BI: Dashboard creation and visualization.
