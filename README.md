@@ -1,1 +1,1 @@
-# PowerBi_dashboard_project
+# Hospitality Dashboard - Power BI
