@@ -56,25 +56,6 @@ Realization % and ADR by Booking Platforms,
 Property by Key Metrics,
 Week over week changes of Key Metrics,
 
-Key Performance Indicators
-
-Revenue
-Revenue Per Available Room (RevPAR)
-Occupancy %
-Realization %
-Cancellation %
-Average Daily Rate (ADR)
-Average rating
-Daily Sellable Room Nights (DSRN)
-Daily Booked Room Nights (DBRN)
-Daily Utilized Room Nights (DURN)
-Informative Charts
-
-Percentage of Revenue by Category
-Trend by Key Metrics - ADR, RevPAR, Occupancy %
-Realization % and ADR by Booking Platforms
-Property by Key Metrics
-Week over week changes of Key Metrics
 
 # Key Insights
 
