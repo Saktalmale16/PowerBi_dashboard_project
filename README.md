@@ -131,7 +131,7 @@ Total Bookings : 135K
 
 
 # Hospitality Analytical Dasboard 
-![image alt](https://github.com/Saktalmale16/PowerBi_dashboard_project/blob/main/Hospitality%20Dashboard.PNG?raw=true)
+![image alt]()
 # Overall Analysis View
 ![image alt](https://github.com/Saktalmale16/PowerBi_dashboard_project/blob/994dbdd8321989996b3985c724f24155881ab5a4/Hospitality%20Dashboard%20Power%20BI.PNG)
 
