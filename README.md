@@ -101,3 +101,6 @@ ADR : 12.70K
 ![image alt](https://github.com/Saktalmale16/PowerBi_dashboard_project/blob/main/Hospitality%20Dashboard.PNG?raw=true)
 # Overall Analysis View
 ![image alt](https://github.com/Saktalmale16/PowerBi_dashboard_project/blob/994dbdd8321989996b3985c724f24155881ab5a4/Hospitality%20Dashboard%20Power%20BI.PNG)
+
+# Contact
+For any questions or feedback,please contact[Sakshi Talmale]at[sakshitalmale16@gmail.com]
