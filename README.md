@@ -20,6 +20,9 @@ Their revenue management team had decided to hire a 3rd party service provider t
 Data cleaning and transformation using Power Query,
 
 Data modelling
+
 Calculating various key measures using DAX functions
+
 Data visualisation
+
 Key Performance Indicators
