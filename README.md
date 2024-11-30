@@ -50,8 +50,8 @@ Daily Booked Room Nights (DBRN),
 Daily Utilized Room Nights (DURN),
 
 # Informative Charts
-Percentage of Revenue by Category
-Trend by Key Metrics - ADR, RevPAR, Occupancy %
-Realization % and ADR by Booking Platforms
-Property by Key Metrics
-Week over week changes of Key Metrics
+Percentage of Revenue by Category,
+Trend by Key Metrics - ADR, RevPAR, Occupancy %,
+Realization % and ADR by Booking Platforms,
+Property by Key Metrics,
+Week over week changes of Key Metrics,
