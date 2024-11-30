@@ -35,3 +35,23 @@ Power Query: Data cleaning and transformation.
 DAX (Data Analysis Expressions): Data modeling and calculations.
 
 Power BI: Dashboard creation and visualization.
+
+# Key Performance Indicators
+
+Revenue
+Revenue Per Available Room (RevPAR)
+Occupancy %
+Realization %
+Cancellation %
+Average Daily Rate (ADR)
+Average rating
+Daily Sellable Room Nights (DSRN)
+Daily Booked Room Nights (DBRN)
+Daily Utilized Room Nights (DURN)
+
+# Informative Charts
+Percentage of Revenue by Category
+Trend by Key Metrics - ADR, RevPAR, Occupancy %
+Realization % and ADR by Booking Platforms
+Property by Key Metrics
+Week over week changes of Key Metrics
