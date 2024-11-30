@@ -23,9 +23,13 @@ Their revenue management team had decided to hire a 3rd party service provider t
 The dataset includes the following tables:
 
 dim_date
+
 dim_hotels
+
 dim_rooms
+
 fact_bookings
+
 fact_aggregated_bookings
 
 # The process includes
