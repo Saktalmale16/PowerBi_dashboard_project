@@ -89,3 +89,5 @@ Realisation %: 70.15%
 Cancellation %: 24%-26%
 
 ADR : 12.70K
+
+https://github.com/Saktalmale16/PowerBi_dashboard_project/blob/81a12bd91918922d6234d5181b76eb62dabc77ed/Data%20Modeling%20Power%20BI.PNG
