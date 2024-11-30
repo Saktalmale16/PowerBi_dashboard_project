@@ -38,16 +38,16 @@ Power BI: Dashboard creation and visualization.
 
 # Key Performance Indicators
 
-Revenue
-Revenue Per Available Room (RevPAR)
-Occupancy %
-Realization %
-Cancellation %
-Average Daily Rate (ADR)
-Average rating
-Daily Sellable Room Nights (DSRN)
-Daily Booked Room Nights (DBRN)
-Daily Utilized Room Nights (DURN)
+Revenue,
+Revenue Per Available Room (RevPAR),
+Occupancy %,
+Realization %,
+Cancellation %,
+Average Daily Rate (ADR),
+Average rating,
+Daily Sellable Room Nights (DSRN),
+Daily Booked Room Nights (DBRN),
+Daily Utilized Room Nights (DURN),
 
 # Informative Charts
 Percentage of Revenue by Category
