@@ -55,11 +55,24 @@ Daily Utilized Room Nights (DURN),
 
 # Informative Charts
 Percentage of Revenue by Category,
+
 Trend by Key Metrics - ADR, RevPAR, Occupancy %,
+
 Realization % and ADR by Booking Platforms,
+
 Property by Key Metrics,
+
 Week over week changes of Key Metrics,
 
+Total Revenue by Booking Platform
+
+Total Booking and Revenue by Day Type
+
+Total Revenue by Room Class
+
+Total Revenue by City and Category
+
+Total Revenue by Property Name
 
 # Key Insights
 
@@ -94,13 +107,17 @@ Cancellation %: 24%-26%
 
 ADR : 12.70K
 
+Average Rating : 3.62
+
+Total Bookings : 135K
+
 # Data Modeling
 ![image alt](https://github.com/Saktalmale16/PowerBi_dashboard_project/blob/81a12bd91918922d6234d5181b76eb62dabc77ed/Data%20Modeling%20Power%20BI.PNG)
 
-# Project Screenshots
+
 # Hospitality Analytical Dasboard 
 ![image alt](https://github.com/Saktalmale16/PowerBi_dashboard_project/blob/main/Hospitality%20Dashboard.PNG?raw=true)
- Overall Analysis View
+# Overall Analysis View
 ![image alt](https://github.com/Saktalmale16/PowerBi_dashboard_project/blob/994dbdd8321989996b3985c724f24155881ab5a4/Hospitality%20Dashboard%20Power%20BI.PNG)
 
 # Contact
