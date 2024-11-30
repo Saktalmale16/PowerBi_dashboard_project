@@ -22,27 +22,27 @@ Their revenue management team had decided to hire a 3rd party service provider t
 # Data Sources
 The dataset includes the following tables:
 
-dim_date
+dim_date,
 
-dim_hotels
+dim_hotels,
 
-dim_rooms
+dim_rooms,
 
-fact_bookings
+fact_bookings,
 
-fact_aggregated_bookings
+fact_aggregated_bookings,
 
 # The process includes
 
 Data cleaning and transformation using Power Query,
 
-Data modelling
+Data modelling,
 
-Calculating various key measures using DAX functions
+Calculating various key measures using DAX functions,
 
-Data visualisation
+Data visualisation,
 
-Key Performance Indicators
+Key Performance Indicators.
 
 # Tools Used
 Excel: Data loading and preparation.
@@ -55,7 +55,7 @@ Power BI: Dashboard creation and visualization.
 
 # Key Performance Indicators
 
-Revenue,
+Total Revenue,
 Revenue Per Available Room (RevPAR),
 Occupancy %,
 Realization %,
@@ -65,6 +65,8 @@ Average rating,
 Daily Sellable Room Nights (DSRN),
 Daily Booked Room Nights (DBRN),
 Daily Utilized Room Nights (DURN),
+Average Rating,
+Total Booking.
 
 # Informative Charts
 Percentage of Revenue by Category,
